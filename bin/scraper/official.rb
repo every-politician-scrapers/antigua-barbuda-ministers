@@ -8,13 +8,14 @@ class MemberList
   class Member
     def name
       Name.new(
-        full: positionless_name,
+        full:     positionless_name,
         prefixes: ['Honourable']
       ).short
     end
 
     def position
-      ([name_position] + paragraphs.drop(1).map(&:text).join(' ').tidy.split(/ AND (?=Minister)/)).compact.map(&:tidy).reject(&:empty?)
+      ([name_position] + [line_positions]).flatten.compact.map(&:tidy).reject(&:empty?)
+                                          .reject { |pos| pos.include? 'Minister of State' } # TODO: include these
     end
 
     private
@@ -23,6 +24,10 @@ class MemberList
       # Get the immediately previous paragraphs,
       # but we only want the ones that have underlined text
       noko.xpath('preceding-sibling::*').slice_when { |node| node.name != 'p' }.to_a.last.map { |node| node.css('u') }
+    end
+
+    def line_positions
+      paragraphs.drop(1).map(&:text).join(' ').tidy.split(/ AND (?=Minister)/)
     end
 
     # Sometimes the name line also includes a position
