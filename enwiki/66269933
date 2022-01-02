@@ -143,27 +143,6 @@
             ]
           }
         }
-      ],
-      "references": [
-        {
-          "url": "https://www.rulers.org/indexg4.html",
-          "title": "Index Gr-Gy",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://www.rulers.org/fm1.html",
-          "title": "Foreign ministers A-D",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "url": "https://ab.gov.ag/",
-          "title": "Government of Antigua and Barbuda",
-          "website": "ab.gov.ag",
-          "template": "citation",
-          "type": "web"
-        }
       ]
     }
   ]
