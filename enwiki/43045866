@@ -159,8 +159,20 @@
               }
             ]
           },
+          "successor2": {
+            "text": "Johnny Briceño",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Johnny Briceño"
+              }
+            ]
+          },
           "term_start2": {
             "text": "1 July 2021"
+          },
+          "term_end2": {
+            "text": "31 December 2021"
           },
           "birth_name": {
             "text": "Gaston Alfonso Browne"
