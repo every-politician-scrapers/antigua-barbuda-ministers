@@ -166,6 +166,56 @@
             }
           ]
         }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Steadroy \"Cutie\" Benjamin"
+          },
+          "party": {
+            "text": "Antigua Labour Party",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Antigua Labour Party"
+              }
+            ]
+          },
+          "nationality": {
+            "text": "Antiguan",
+            "links": [
+              {
+                "text": "Antiguan",
+                "type": "internal",
+                "page": "Antigua"
+              }
+            ]
+          },
+          "profession": {
+            "text": "politician",
+            "links": [
+              {
+                "text": "politician",
+                "type": "internal",
+                "page": "politician"
+              }
+            ]
+          },
+          "office": {
+            "text": "Attorney-General"
+          },
+          "term_start": {
+            "text": "2014",
+            "number": 2014
+          },
+          "office3": {
+            "text": "Deputy Prime Minister"
+          },
+          "term_start3": {
+            "text": "2014",
+            "number": 2014
+          }
+        }
       ]
     }
   ]
