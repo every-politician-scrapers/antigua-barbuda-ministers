@@ -49,6 +49,14 @@
           "template": "use dmy dates"
         },
         {
+          "country": "GBR",
+          "list": [
+            "GCMG"
+          ],
+          "size": "100%",
+          "template": "post-nominals"
+        },
+        {
           "year": "1947",
           "month": "11",
           "day": "02",
@@ -69,8 +77,9 @@
             "text": "His Excellency Sir",
             "links": [
               {
+                "text": "His Excellency",
                 "type": "internal",
-                "page": "His Excellency"
+                "page": "Excellency"
               },
               {
                 "type": "internal",
@@ -82,21 +91,20 @@
             "text": "Rodney Williams"
           },
           "honorific-suffix": {
-            "text": "KGN GCMG",
+            "text": "KGN",
             "links": [
               {
                 "text": "KGN",
                 "type": "internal",
                 "page": "Order of the Nation (Antigua and Barbuda)"
-              },
-              {
-                "type": "internal",
-                "page": "GCMG"
               }
             ]
           },
           "image": {
             "text": "Governor General Of Antigua And Barbuda (37250652361) (cropped) (cropped).jpg"
+          },
+          "caption": {
+            "text": "Williams in 2017"
           },
           "office": {
             "text": "Governor-General of Antigua and Barbuda",
@@ -172,9 +180,6 @@
                 "page": "University of the West Indies"
               }
             ]
-          },
-          "caption": {
-            "text": "Williams in 2017"
           }
         }
       ]
