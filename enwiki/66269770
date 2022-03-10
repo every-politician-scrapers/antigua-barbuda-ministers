@@ -1,95 +1,10 @@
 {
-  "title": "Daryll Mathew",
-  "pageID": 66269770,
-  "categories": [
-    "Living people",
-    "Members of the House of Representatives (Antigua and Barbuda)",
-    "Antigua and Barbuda Labour Party politicians",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Daryll Sylvester Matthew is an Antiguan and Barbudan politician, representing St. John’s Rural South in the Antigua and Barbuda House of Representatives",
-              "links": [
-                {
-                  "text": "Antiguan and Barbudan",
-                  "type": "internal",
-                  "page": "Antigua and Barbuda"
-                },
-                {
-                  "text": "House of Representatives",
-                  "type": "internal",
-                  "page": "House of Representatives (Antigua and Barbuda)"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Daryll Sylvester Matthew"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "The Honourable",
-            "links": [
-              {
-                "type": "internal",
-                "page": "The Honourable"
-              }
-            ]
-          },
-          "name": {
-            "text": "Daryll Sylvester Matthew"
-          },
-          "parliament": {
-            "text": "Antigua and Barbuda"
-          },
-          "constituency_mp": {
-            "text": "St. John’s Rural South"
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "governor_general": {
-            "text": "Rodney Williams",
-            "links": [
-              {
-                "text": "Rodney Williams",
-                "type": "internal",
-                "page": "Rodney Williams (politician)"
-              }
-            ]
-          },
-          "party": {
-            "text": "Antigua and Barbuda Labour Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antigua and Barbuda Labour Party"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "March 2018"
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "The Honourable",
+  "name": "Daryll Sylvester Matthew",
+  "parliament": "Antigua and Barbuda",
+  "constituency_mp": "St. John’s Rural South",
+  "monarch": "Elizabeth II",
+  "governor_general": "Rodney Williams",
+  "party": "Antigua and Barbuda Labour Party",
+  "term_start": "March 2018"
 }

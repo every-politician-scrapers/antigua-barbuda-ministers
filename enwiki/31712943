@@ -1,206 +1,26 @@
 {
-  "title": "Robin Yearwood",
-  "pageID": 31712943,
-  "categories": [
-    "Living people",
-    "Antigua and Barbuda Labour Party politicians",
-    "Finance ministers of Antigua and Barbuda",
-    "Government ministers of Antigua and Barbuda",
-    "Year of birth missing (living people)"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Robin Yearwood is an Antiguan politician and member of the Antigua Labour Party (ALP).",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Antigua Labour Party"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Robin Yearwood"
-                ]
-              }
-            },
-            {
-              "text": "Entering Parliament in 1976, Yearwood served as Minister of Agriculture, Land and Fisheries in the ALP administration until a cabinet reshuffle in 1987 saw him take over Vere Bird, Jr.'s portfolio for Aviation, Public Information and Public Utilities.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Vere Bird, Jr."
-                }
-              ]
-            },
-            {
-              "text": "Despite a failed attempt to oust the Prime Minister he retained this position, and kept it when he became Deputy Prime Minister on 9 September 2002 and Minister of Finance a year later.",
-              "links": [
-                {
-                  "text": "Minister of Finance",
-                  "type": "internal",
-                  "page": "Finance Minister of Antigua and Barbuda"
-                }
-              ]
-            },
-            {
-              "text": "Following the ALP's loss in the 2004 election, Yearwood was one of only three ALP members left in the lower house, and became Leader of the Opposition."
-            },
-            {
-              "text": "He held this position until 2006, when he was replaced with Steadroy Benjamin.",
-              "links": [
-                {
-                  "type": "internal",
-                  "page": "Steadroy Benjamin"
-                }
-              ]
-            }
-          ]
-        }
-      ],
-      "infoboxes": [
-        {
-          "name": {
-            "text": "Robin Yearwood"
-          },
-          "office": {
-            "text": "Leader of the Opposition"
-          },
-          "term_start": {
-            "text": "2004",
-            "number": 2004
-          },
-          "term_end": {
-            "text": "2006",
-            "number": 2006
-          },
-          "predecessor": {
-            "text": "Baldwin Spencer",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Baldwin Spencer"
-              }
-            ]
-          },
-          "successor": {
-            "text": "Steadroy Benjamin",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Steadroy Benjamin"
-              }
-            ]
-          },
-          "office2": {
-            "text": "Finance Minister of Antigua and Barbuda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Finance Minister of Antigua and Barbuda"
-              }
-            ]
-          },
-          "term_start2": {
-            "text": "2003",
-            "number": 2003
-          },
-          "term_end2": {
-            "text": "2004",
-            "number": 2004
-          },
-          "predecessor2": {
-            "text": "Lester Bird",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Lester Bird"
-              }
-            ]
-          },
-          "successor2": {
-            "text": "Errol Cort",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Errol Cort"
-              }
-            ]
-          },
-          "office3": {
-            "text": "Deputy Prime Minister"
-          },
-          "term_start3": {
-            "text": "9 September 2002"
-          },
-          "term_end3": {
-            "text": "2004",
-            "number": 2004
-          },
-          "office4": {
-            "text": "Minister of Aviation, Public Information and Public Utilities"
-          },
-          "term_start4": {
-            "text": "1 January 1987"
-          },
-          "term_end4": {
-            "text": "2004",
-            "number": 2004
-          },
-          "predecessor4": {
-            "text": "Vere Bird, Jr.",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Vere Bird, Jr."
-              }
-            ]
-          },
-          "office5": {
-            "text": "Minister of Agriculture, Land and Fisheries"
-          },
-          "term_start5": {
-            "text": "29 May 1980"
-          },
-          "term_end5": {
-            "text": "1 January 1987"
-          },
-          "nationality": {
-            "text": "Antiguan",
-            "links": [
-              {
-                "text": "Antiguan",
-                "type": "internal",
-                "page": "Antigua"
-              }
-            ]
-          },
-          "party": {
-            "text": "Antigua Labour Party",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Antigua Labour Party"
-              }
-            ]
-          },
-          "profession": {
-            "text": "politician",
-            "links": [
-              {
-                "text": "politician",
-                "type": "internal",
-                "page": "politician"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "name": "Robin Yearwood",
+  "office": "Leader of the Opposition",
+  "term_start": "2004",
+  "term_end": "2006",
+  "predecessor": "Baldwin Spencer",
+  "successor": "Steadroy Benjamin",
+  "office2": "Finance Minister of Antigua and Barbuda",
+  "term_start2": "2003",
+  "term_end2": "2004",
+  "predecessor2": "Lester Bird",
+  "successor2": "Errol Cort",
+  "office3": "Deputy Prime Minister",
+  "term_start3": "9 September 2002",
+  "term_end3": "2004",
+  "office4": "Minister of Aviation, Public Information and Public Utilities",
+  "term_start4": "1 January 1987",
+  "term_end4": "2004",
+  "predecessor4": "Vere Bird, Jr.",
+  "office5": "Minister of Agriculture, Land and Fisheries",
+  "term_start5": "29 May 1980",
+  "term_end5": "1 January 1987",
+  "nationality": "Antiguan",
+  "party": "Antigua Labour Party",
+  "profession": "politician"
 }

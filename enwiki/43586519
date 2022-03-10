@@ -1,188 +1,23 @@
 {
-  "title": "Rodney Williams (governor-general)",
-  "pageID": 43586519,
-  "categories": [
-    "Governors-General of Antigua and Barbuda",
-    "1947 births",
-    "Living people",
-    "Knights Grand Cross of the Order of St Michael and St George",
-    "Recipients of the Order of the Nation (Antigua and Barbuda)",
-    "People from Saint Paul Parish, Antigua"
-  ],
-  "sections": [
-    {
-      "title": "",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": [
-            {
-              "text": "Sir Rodney Errey Lawrence Williams, KGN, (born 2 November 1947), is the current and 4th Governor-General of Antigua and Barbuda.",
-              "links": [
-                {
-                  "text": "KGN",
-                  "type": "internal",
-                  "page": "Order of the Nation (Antigua and Barbuda)"
-                },
-                {
-                  "text": "Governor-General of Antigua and Barbuda",
-                  "type": "internal",
-                  "page": "List of Governors-General of Antigua and Barbuda"
-                }
-              ],
-              "formatting": {
-                "bold": [
-                  "Sir Rodney Errey Lawrence Williams"
-                ]
-              }
-            }
-          ]
-        }
-      ],
-      "templates": [
-        {
-          "date": "June 2014",
-          "template": "engvarb"
-        },
-        {
-          "date": "June 2014",
-          "template": "use dmy dates"
-        },
-        {
-          "country": "GBR",
-          "list": [
-            "GCMG"
-          ],
-          "size": "100%",
-          "template": "post-nominals"
-        },
-        {
-          "year": "1947",
-          "month": "11",
-          "day": "02",
-          "df": "y",
-          "template": "birth date and age"
-        },
-        {
-          "country": "GBR",
-          "list": [
-            "GCMG"
-          ],
-          "template": "post-nominals"
-        }
-      ],
-      "infoboxes": [
-        {
-          "honorific_prefix": {
-            "text": "His Excellency Sir",
-            "links": [
-              {
-                "text": "His Excellency",
-                "type": "internal",
-                "page": "Excellency"
-              },
-              {
-                "type": "internal",
-                "page": "Sir"
-              }
-            ]
-          },
-          "name": {
-            "text": "Rodney Williams"
-          },
-          "honorific-suffix": {
-            "text": "KGN",
-            "links": [
-              {
-                "text": "KGN",
-                "type": "internal",
-                "page": "Order of the Nation (Antigua and Barbuda)"
-              }
-            ]
-          },
-          "image": {
-            "text": "Governor General Of Antigua And Barbuda (37250652361) (cropped) (cropped).jpg"
-          },
-          "caption": {
-            "text": "Williams in 2017"
-          },
-          "office": {
-            "text": "Governor-General of Antigua and Barbuda",
-            "links": [
-              {
-                "text": "Governor-General of Antigua and Barbuda",
-                "type": "internal",
-                "page": "List of Governors-General of Antigua and Barbuda"
-              }
-            ]
-          },
-          "monarch": {
-            "text": "Elizabeth II",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Elizabeth II"
-              }
-            ]
-          },
-          "primeminister": {
-            "text": "Gaston Browne",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Gaston Browne"
-              }
-            ]
-          },
-          "term_start": {
-            "text": "14 August 2014"
-          },
-          "predecessor": {
-            "text": "Louise Lake-Tack",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Louise Lake-Tack"
-              }
-            ]
-          },
-          "birth_date": {
-            "text": "November 2, 1947"
-          },
-          "birth_place": {
-            "text": "Swetes, Antigua and Barbuda",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Swetes"
-              },
-              {
-                "type": "internal",
-                "page": "Antigua and Barbuda"
-              }
-            ]
-          },
-          "party": {
-            "text": "Labour Party",
-            "links": [
-              {
-                "text": "Labour Party",
-                "type": "internal",
-                "page": "Antigua Labour Party"
-              }
-            ]
-          },
-          "alma_mater": {
-            "text": "University of the West Indies",
-            "links": [
-              {
-                "type": "internal",
-                "page": "University of the West Indies"
-              }
-            ]
-          }
-        }
-      ]
-    }
-  ]
+  "honorific_prefix": "His Excellency Sir",
+  "name": "Rodney Williams",
+  "honorific-suffix": "KGN GCMG",
+  "image": "Governor General Of Antigua And Barbuda (37250652361) (cropped) (cropped).jpg",
+  "caption": "Williams in 2017",
+  "office": "Governor-General of Antigua and Barbuda",
+  "monarch": "Elizabeth II",
+  "primeminister": "Gaston Browne",
+  "term_start": "14 August 2014",
+  "predecessor": "Louise Lake-Tack",
+  "birth_date": "November 2, 1947",
+  "birth_place": "Swetes, Antigua and Barbuda",
+  "party": "Labour Party",
+  "alma_mater": "University of the West Indies"
+}
+{
+  "image": "Coat of arms of Antigua and Barbuda.svg",
+  "name": "Sir Rodney Williams\n(2014–Present)",
+  "dipstyle": "His Excellency",
+  "offstyle": "Your Excellency",
+  "altstyle": "Sir"
 }
