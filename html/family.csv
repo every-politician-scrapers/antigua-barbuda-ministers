@@ -1,0 +1,13 @@
+id,name,relationship,relative,relativename
+Q100606338,Maria Bird-Browne,spouse,Q17177542,Gaston Browne
+Q17177542,Gaston Browne,spouse,Q100606338,Maria Bird-Browne
+Q365451,Lester Bird,father,Q561911,Vere Bird
+Q365451,Lester Bird,sibling,Q7921171,"Vere Bird, Jr."
+Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
+Q9682,Elizabeth II,child,Q153330,"Prince Andrew, Duke of York"
+Q9682,Elizabeth II,child,Q154920,"Prince Edward, Earl of Wessex"
+Q9682,Elizabeth II,child,Q43274,"Charles, Prince of Wales"
+Q9682,Elizabeth II,father,Q280856,George VI
+Q9682,Elizabeth II,mother,Q10633,"Queen Elizabeth, The Queen Mother"
+Q9682,Elizabeth II,sibling,Q153815,"Princess Margaret, Countess of Snowdon"
+Q9682,Elizabeth II,spouse,Q80976,"Prince Philip, Duke of Edinburgh"
