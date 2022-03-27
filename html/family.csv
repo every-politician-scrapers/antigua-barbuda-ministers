@@ -1,6 +1,7 @@
 id,name,relationship,relative,relativename
 Q100606338,Maria Bird-Browne,spouse,Q17177542,Gaston Browne
 Q17177542,Gaston Browne,spouse,Q100606338,Maria Bird-Browne
+Q20171771,Charles Fernandez,spouse,Q111367956,Jill Fernandez
 Q365451,Lester Bird,father,Q561911,Vere Bird
 Q365451,Lester Bird,sibling,Q7921171,"Vere Bird, Jr."
 Q9682,Elizabeth II,child,Q151754,"Anne, Princess Royal"
