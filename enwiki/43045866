@@ -1,7 +1,6 @@
 {
   "honorific_prefix": "The Right Honourable",
   "name": "Gaston Browne",
-  "image": "Commonwealth Heads of Government Meeting - 2018 (40666408505) (cropped).jpg",
   "office": "4th Prime Minister of Antigua and Barbuda",
   "monarch": "Elizabeth II",
   "governor-general": "Louise Lake-Tack\nRodney Williams",
@@ -16,8 +15,8 @@
   "term_end2": "31 December 2021",
   "birth_name": "Gaston Alfonso Browne",
   "birth_date": "February 9, 1967",
-  "birth_place": "Codrington, Colony of Antigua and Barbuda",
+  "birth_place": "Villa, Colony of Antigua and Barbuda",
   "party": "Labour Party",
-  "spouse": "Maria Bird-Browne",
+  "(side)spouse": "Maria Bird-Browne",
   "education": "City Banking College\nUniversity of Manchester"
 }
