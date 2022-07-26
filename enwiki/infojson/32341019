@@ -1,0 +1,70 @@
+[
+  {
+    "office": {
+      "links": [
+        "Finance Minister of Antigua and Barbuda"
+      ],
+      "stated_as": "Finance Minister of Antigua and Barbuda"
+    },
+    "P580": "1991",
+    "P1365": {
+      "links": [
+        "Lester Bird"
+      ],
+      "stated_as": "Lester Bird"
+    },
+    "P582": "1994",
+    "P1366": {
+      "links": [
+        "John Eugene St. Luce"
+      ],
+      "stated_as": "John Eugene St. Luce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Finance Minister of Antigua and Barbuda"
+      ],
+      "stated_as": "Finance Minister of Antigua and Barbuda"
+    },
+    "P580": "1994",
+    "P1365": {
+      "links": [
+        "John Eugene St. Luce"
+      ],
+      "stated_as": "John Eugene St. Luce"
+    },
+    "P582": "1996",
+    "P1366": {
+      "links": [
+        "John Eugene St. Luce"
+      ],
+      "stated_as": "John Eugene St. Luce"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+
+      ],
+      "stated_as": "St. Mary's North"
+    },
+    "P580": "2009-03-12"
+  },
+  {
+    "office": {
+      "links": [
+        "Ministry of Health and the Environment (Antigua and Barbuda)"
+      ],
+      "stated_as": "Minister for Health and the Environment"
+    },
+    "P580": "2014-06-18"
+  }
+]

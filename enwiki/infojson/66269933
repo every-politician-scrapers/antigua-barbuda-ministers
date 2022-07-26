@@ -1,0 +1,32 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "Saint Paul Parish, Antigua and Barbuda"
+      ],
+      "stated_as": "Saint Paul"
+    },
+    "P580": "2014-06-13"
+  },
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Antigua and Barbuda)"
+      ],
+      "stated_as": "Minister of Foreign Affairs, International Trade, and Immigration"
+    },
+    "P580": "2018-03-22",
+    "P1365": {
+      "links": [
+        "Charles Fernandez"
+      ],
+      "stated_as": "Charles Fernandez"
+    }
+  }
+]
