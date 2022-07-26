@@ -1,0 +1,39 @@
+[
+  {
+    "office": {
+      "links": [
+        "Minister of Foreign Affairs (Antigua and Barbuda)"
+      ],
+      "stated_as": "Minister of Foreign Affairs"
+    },
+    "P580": "2014-06-18",
+    "P1365": {
+      "links": [
+        "Baldwin Spencer"
+      ],
+      "stated_as": "Baldwin Spencer"
+    },
+    "P582": "2018",
+    "P1366": {
+      "links": [
+        "Paul Chet Greene"
+      ],
+      "stated_as": "Paul Chet Greene"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Tourism, Investment and Economic Development"
+    },
+    "P580": "2017",
+    "P1365": {
+      "links": [
+        "Asot Michael"
+      ],
+      "stated_as": "Asot Michael"
+    }
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Agriculture, Land and Fisheries"
+    },
+    "P580": "1980-05-29",
+    "P582": "1987-01-01"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Minister of Aviation, Public Information and Public Utilities"
+    },
+    "P580": "1987-01-01",
+    "P1365": {
+      "links": [
+        "Vere Bird, Jr."
+      ],
+      "stated_as": "Vere Bird, Jr."
+    },
+    "P582": "2004"
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Deputy Prime Minister"
+    },
+    "P580": "2002-09-09",
+    "P582": "2004"
+  },
+  {
+    "office": {
+      "links": [
+        "Finance Minister of Antigua and Barbuda"
+      ],
+      "stated_as": "Finance Minister of Antigua and Barbuda"
+    },
+    "P580": "2003",
+    "P1365": {
+      "links": [
+        "Lester Bird"
+      ],
+      "stated_as": "Lester Bird"
+    },
+    "P582": "2004",
+    "P1366": {
+      "links": [
+        "Errol Cort"
+      ],
+      "stated_as": "Errol Cort"
+    }
+  },
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Leader of the Opposition"
+    },
+    "P580": "2004",
+    "P1365": {
+      "links": [
+        "Baldwin Spencer"
+      ],
+      "stated_as": "Baldwin Spencer"
+    },
+    "P582": "2006",
+    "P1366": {
+      "links": [
+        "Steadroy Benjamin"
+      ],
+      "stated_as": "Steadroy Benjamin"
+    }
+  }
+]

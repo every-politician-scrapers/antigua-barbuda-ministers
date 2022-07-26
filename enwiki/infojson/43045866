@@ -1,0 +1,82 @@
+[
+  {
+    "office": {
+      "links": [
+
+      ],
+      "stated_as": "Member of Parliament"
+    },
+    "P768": {
+      "links": [
+        "St. John's City West (Antigua)"
+      ],
+      "stated_as": "St. John's City West"
+    },
+    "P580": "1999-03-09",
+    "P1365": {
+      "links": [
+
+      ],
+      "stated_as": "Donald Halstead"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Prime Minister of Antigua and Barbuda"
+      ],
+      "stated_as": "4th Prime Minister of Antigua and Barbuda"
+    },
+    "P580": "2014-06-13",
+    "P1365": {
+      "links": [
+        "Baldwin Spencer"
+      ],
+      "stated_as": "Baldwin Spencer"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Caribbean Community"
+      ],
+      "stated_as": "Chairman of the Caribbean Community"
+    },
+    "P580": "2014-07-01",
+    "P1365": {
+      "links": [
+        "Ralph Gonsalves"
+      ],
+      "stated_as": "Ralph Gonsalves"
+    },
+    "P582": "2014-12-31",
+    "P1366": {
+      "links": [
+        "Perry Christie"
+      ],
+      "stated_as": "Perry Christie"
+    }
+  },
+  {
+    "office": {
+      "links": [
+        "Caribbean Community"
+      ],
+      "stated_as": "Chairman of the Caribbean Community"
+    },
+    "P580": "2021-07-01",
+    "P1365": {
+      "links": [
+        "Keith Rowley"
+      ],
+      "stated_as": "Keith Rowley"
+    },
+    "P582": "2021-12-31",
+    "P1366": {
+      "links": [
+        "Johnny Briceño"
+      ],
+      "stated_as": "Johnny Briceño"
+    }
+  }
+]
