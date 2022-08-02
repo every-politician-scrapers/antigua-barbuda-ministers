@@ -53,6 +53,10 @@
           "template": "short description"
         },
         {
+          "date": "August 2022",
+          "template": "cleanup bare urls"
+        },
+        {
           "date": "June 2014",
           "template": "engvarb"
         },
